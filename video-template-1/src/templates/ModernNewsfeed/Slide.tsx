@@ -5,6 +5,7 @@ interface SlideProps {
   text: string;
   image: string;
   voice: string;
+  duration: string;
 }
 
 // 🔧 Shadow dùng lại
@@ -67,9 +68,14 @@ const imageStyle: React.CSSProperties = {
   left: 0,
 };
 
-export const Slide: React.FC<SlideProps> = ({ text, image, voice }) => {
+export const Slide: React.FC<SlideProps> = ({ text, image, voice, duration }) => {
   const frame = useCurrentFrame();
   const [title, description] = text.split('|');
+
+  const fps = 30;
+  const voiceDurationInSeconds = parseFloat(duration);
+  const imageDurationInSeconds = voiceDurationInSeconds + 1; // ⏱ thêm 1 giây cho hình
+  const imageDurationFrames = Math.floor(imageDurationInSeconds * fps);
 
   // Animations
   const titleY = interpolate(frame, [10, 30], [100, 0], { extrapolateRight: 'clamp' });
@@ -81,7 +87,8 @@ export const Slide: React.FC<SlideProps> = ({ text, image, voice }) => {
   const descOpacity = interpolate(frame, [50, 70], [0, 1], { extrapolateRight: 'clamp' });
 
   // Ken Burns Effect
-  const panZoomProgress = interpolate(frame, [30, 180], [0, 1], {
+  const panZoomEndFrame = Math.max(60, imageDurationFrames - 15);
+  const panZoomProgress = interpolate(frame, [30, panZoomEndFrame], [0, 1], {
     extrapolateRight: 'clamp',
     easing: Easing.inOut(Easing.ease),
   });
@@ -91,9 +98,15 @@ export const Slide: React.FC<SlideProps> = ({ text, image, voice }) => {
   const imageTranslateY = interpolate(panZoomProgress, [0, 1], [-10, 10]);
 
   const imageFadeIn = interpolate(frame, [30, 50], [0, 1], { extrapolateRight: 'clamp' });
-  const imageFadeOut = interpolate(frame, [170, 180], [1, 0], { extrapolateLeft: 'clamp' });
+  const imageFadeOut = interpolate(
+    frame,
+    [imageDurationFrames - 10, imageDurationFrames],
+    [1, 0],
+    { extrapolateLeft: 'clamp' }
+  );
 
   const finalImageOpacity = imageFadeIn * imageFadeOut;
+
 
   return (
     <AbsoluteFill style={sceneContainer}>

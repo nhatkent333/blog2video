@@ -1,34 +1,34 @@
 {
   "slides": [
     {
-      "text": "Kết quả hiệu ứng|Kết hợp với ảnh bên trong (cũng fade + pan + zoom), tạo cảm giác ảnh nổi bật rất mượt",
+      "text": "Khói thuốc độc hại|7.000+ hóa chất độc hại",
       "image": "/images/img1.jpg",
       "voice": "/voices/part1.mp3",
-      "duration": "5"
+      "duration": "7.22"
     },
     {
-      "text": "Tiêu Đề 2|Purin và Gout",
+      "text": "COPD: Bệnh mạn tính|COPD: Không thể chữa khỏi",
       "image": "/images/img2.jpg",
       "voice": "/voices/part2.mp3",
-      "duration": "6"
+      "duration": "8.06"
     },
     {
-      "text": "Tiêu Đề 3|Hạn chế đường ngọt",
+      "text": "Câu chuyện ông Đ.|Nhiều năm hút thuốc",
       "image": "/images/img3.jpg",
       "voice": "/voices/part3.mp3",
-      "duration": "6"
+      "duration": "10.27"
     },
     {
-      "text": "Tiêu Đề 4|Uống đủ 2 lít",
+      "text": "Hút thuốc - Nguyên nhân hàng đầu|Nguy cơ cao gấp 10 lần",
       "image": "/images/img4.jpg",
       "voice": "/voices/part4.mp3",
-      "duration": "5"
+      "duration": "9.02"
     },
     {
-      "text": "Tiêu Đề 5|Vận động thường xuyên",
+      "text": "Phòng ngừa COPD|Bảo vệ lá phổi của bạn",
       "image": "/images/img5.jpg",
       "voice": "/voices/part5.mp3",
-      "duration": "6"
+      "duration": "8.45"
     }
   ]
 }

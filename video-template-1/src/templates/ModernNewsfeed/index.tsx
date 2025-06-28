@@ -65,7 +65,7 @@ export const ModernNewsfeedTemplate: React.FC<ModernNewsfeedTemplateProps> = ({ 
             from={fromFrame}
             durationInFrames={slideDurationInFrames} // Sử dụng duration đã được kiểm tra
           >
-            <Slide text={slide.text} image={slide.image} voice={slide.voice} />
+            <Slide text={slide.text} image={slide.image} voice={slide.voice} duration={slide.duration} />
           </Sequence>
         );
       })}

@@ -1,5 +1,0 @@
-out/
-# Bỏ qua các thư mục con bên trong public/
-public/assets/
-public/images/
-public/voices/
