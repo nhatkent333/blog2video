@@ -1,6 +1,5 @@
 node_modules
-out/
-# Bỏ qua các thư mục con bên trong public/
-public/assets/
-public/images/
-public/voices/
+out
+public/assets
+public/images
+public/voices
