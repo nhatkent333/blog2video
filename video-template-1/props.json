@@ -1,0 +1,34 @@
+{
+  "slides": [
+    {
+      "text": "Kết quả hiệu ứng|Kết hợp với ảnh bên trong (cũng fade + pan + zoom), tạo cảm giác ảnh nổi bật rất mượt",
+      "image": "/images/img1.jpg",
+      "voice": "/voices/part1.mp3",
+      "duration": "5"
+    },
+    {
+      "text": "Tiêu Đề 2|Purin và Gout",
+      "image": "/images/img2.jpg",
+      "voice": "/voices/part2.mp3",
+      "duration": "6"
+    },
+    {
+      "text": "Tiêu Đề 3|Hạn chế đường ngọt",
+      "image": "/images/img3.jpg",
+      "voice": "/voices/part3.mp3",
+      "duration": "6"
+    },
+    {
+      "text": "Tiêu Đề 4|Uống đủ 2 lít",
+      "image": "/images/img4.jpg",
+      "voice": "/voices/part4.mp3",
+      "duration": "5"
+    },
+    {
+      "text": "Tiêu Đề 5|Vận động thường xuyên",
+      "image": "/images/img5.jpg",
+      "voice": "/voices/part5.mp3",
+      "duration": "6"
+    }
+  ]
+}
