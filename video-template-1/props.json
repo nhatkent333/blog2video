@@ -1,34 +1,52 @@
 {
   "slides": [
     {
-      "text": "Pickleball: Trào lưu mới|Pickleball: Thú vui bất tận!",
+      "text": "Dấu hiệu trẻ thông minh: Nhạy cảm|Nhạy cảm là một dấu hiệu!",
       "image": "/images/img1.jpg",
       "voice": "/voices/part1.mp3",
-      "duration": "6.29"
+      "duration": "5.33"
     },
     {
-      "text": "Hồng Vân: Đam mê và đau|Cường độ cao, đau nhức!",
+      "text": "Mốc phát triển sớm hơn|Sớm bò, sớm nói, sớm đi!",
       "image": "/images/img2.jpg",
       "voice": "/voices/part2.mp3",
-      "duration": "7.27"
+      "duration": "5.95"
     },
     {
-      "text": "Sự phát triển nhanh chóng|92.5% tăng trưởng!",
+      "text": "Trí nhớ đáng kinh ngạc|Nhớ số điện thoại, biển số xe?",
       "image": "/images/img3.jpg",
       "voice": "/voices/part3.mp3",
+      "duration": "4.61"
+    },
+    {
+      "text": "Ngủ ít, năng lượng cao|Ít ngủ, nhiều năng lượng!",
+      "image": "/images/img4.jpg",
+      "voice": "/voices/part4.mp3",
+      "duration": "5.38"
+    },
+    {
+      "text": "Luôn năng động, khám phá|Khám phá thế giới!",
+      "image": "/images/img5.jpg",
+      "voice": "/voices/part5.mp3",
+      "duration": "5.04"
+    },
+    {
+      "text": "Làm chủ trò chơi nhanh chóng|Sáng tạo trong trò chơi!",
+      "image": "/images/img6.jpg",
+      "voice": "/voices/part6.mp3",
+      "duration": "4.7"
+    },
+    {
+      "text": "Khiếu hài hước bẩm sinh|Diễn viên hài nhí!",
+      "image": "/images/img7.jpg",
+      "voice": "/voices/part7.mp3",
       "duration": "6.22"
     },
     {
-      "text": "Thúy Hằng: Chấn thương bất ngờ|Cẩn trọng với chấn thương!",
-      "image": "/images/img4.jpg",
-      "voice": "/voices/part4.mp3",
-      "duration": "7.03"
-    },
-    {
-      "text": "Cân bằng đam mê và sức khỏe|Lắng nghe cơ thể!",
-      "image": "/images/img5.jpg",
-      "voice": "/voices/part5.mp3",
-      "duration": "6.82"
+      "text": "Kích thích trí thông minh qua vui chơi|Vui chơi học tập!",
+      "image": "/images/img8.jpg",
+      "voice": "/voices/part8.mp3",
+      "duration": "5.33"
     }
   ]
 }

@@ -4,3 +4,4 @@ duckduckgo-search
 gtts
 mutagen
 edge-tts
+google-generativeai
