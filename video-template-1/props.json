@@ -1,34 +1,34 @@
 {
   "slides": [
     {
-      "text": "Khói thuốc độc hại|7.000+ hóa chất độc hại",
+      "text": "Pickleball: Trào lưu mới|Pickleball: Thú vui bất tận!",
       "image": "/images/img1.jpg",
       "voice": "/voices/part1.mp3",
-      "duration": "7.22"
+      "duration": "6.29"
     },
     {
-      "text": "COPD: Bệnh mạn tính|COPD: Không thể chữa khỏi",
+      "text": "Hồng Vân: Đam mê và đau|Cường độ cao, đau nhức!",
       "image": "/images/img2.jpg",
       "voice": "/voices/part2.mp3",
-      "duration": "8.06"
+      "duration": "7.27"
     },
     {
-      "text": "Câu chuyện ông Đ.|Nhiều năm hút thuốc",
+      "text": "Sự phát triển nhanh chóng|92.5% tăng trưởng!",
       "image": "/images/img3.jpg",
       "voice": "/voices/part3.mp3",
-      "duration": "10.27"
+      "duration": "6.22"
     },
     {
-      "text": "Hút thuốc - Nguyên nhân hàng đầu|Nguy cơ cao gấp 10 lần",
+      "text": "Thúy Hằng: Chấn thương bất ngờ|Cẩn trọng với chấn thương!",
       "image": "/images/img4.jpg",
       "voice": "/voices/part4.mp3",
-      "duration": "9.02"
+      "duration": "7.03"
     },
     {
-      "text": "Phòng ngừa COPD|Bảo vệ lá phổi của bạn",
+      "text": "Cân bằng đam mê và sức khỏe|Lắng nghe cơ thể!",
       "image": "/images/img5.jpg",
       "voice": "/voices/part5.mp3",
-      "duration": "8.45"
+      "duration": "6.82"
     }
   ]
 }

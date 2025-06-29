@@ -3,13 +3,14 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from duckduckgo_search import DDGS
-from gtts import gTTS
-from mutagen.mp3 import MP3
 import shutil
+import asyncio
+import edge_tts
+from mutagen.mp3 import MP3
 
 # --- Cấu hình ---
-OPENROUTER_API_KEY = "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"
-BLOG_URL = "https://lifestyle.znews.vn/tuong-chi-ho-thong-thuong-nhieu-nguoi-nhap-vien-vi-la-phoi-kiet-suc-post1564204.html"
+OPENROUTER_API_KEY = "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"
+BLOG_URL = "https://lifestyle.znews.vn/nghien-pickleball-choi-sao-de-khong-vao-vien-post1563629.html"
 
 BASE_PATH = "/workspaces/blog2video/video-template-1"
 IMAGE_PATH = os.path.join(BASE_PATH, "public/images")
@@ -98,16 +99,26 @@ def download_image(keyword, index):
                 continue
     return None
 
+# --- Giọng đọc HoaiMy qua edge-tts ---
 def create_voice(text, index):
+    filename = f"part{index+1}.mp3"
+    path = os.path.join(VOICE_PATH, filename)
     try:
-        filename = f"part{index+1}.mp3"
-        path = os.path.join(VOICE_PATH, filename)
-        gTTS(text=text, lang='vi').save(path)
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        loop.run_until_complete(_speak_with_edge_tts(text, path))
+
         audio = MP3(path)
         duration = round(audio.info.length, 2)
         return f"/voices/{filename}", str(duration)
-    except:
+    except Exception as e:
+        print(f"❌ Lỗi tạo voice: {e}")
         return None, None
+
+async def _speak_with_edge_tts(text, output_path):
+    voice = "vi-VN-HoaiMyNeural"
+    communicate = edge_tts.Communicate(text=text, voice=voice)
+    await communicate.save(output_path)
 
 # --- Chạy chính ---
 if "sk-" not in OPENROUTER_API_KEY:
