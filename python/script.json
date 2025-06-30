@@ -1,0 +1,88 @@
+{
+  "scenes": [
+    {
+      "title": "Ba dấu hiệu giao tiếp độc hại",
+      "script_sentence": "Giao tiếp lành mạnh là điều bắt buộc đối với hầu hết các mối quan hệ. Tiến sĩ Erin Leonard, nhà tâm lý học 20 năm kinh nghiệm của Mỹ, tác giả cuốn sách về trí tuệ cảm xúc How to Outsmart a Narcissist: Use Emotional Intelligence to Regain Control at Home, at Work, and in Life, cho rằng dù phong cách giao tiếp phức tạp và khác biệt, có ba dấu hiệu có thể chỉ ra bạn đang giao tiếp với một người độc hại.",
+      "overlay_text": "3 dấu hiệu nhận biết bạn đang giao tiếp với người độc hại",
+      "image_keywords": "toxic communication signs, emotional intelligence expert Erin Leonard, unhealthy relationships"
+    },
+    {
+      "title": "Thiếu sự lắng nghe tích cực",
+      "script_sentence": "Thiếu sự lắng nghe tích cực. Nếu người bạn đang tương tác không dành vài giây để suy nghĩ về những gì bạn nói, mà lập tức xen ngang bằng ý kiến của họ, thì đó là dấu hiệu cảnh báo.",
+      "overlay_text": "Nói chưa xong đã bị ngắt lời là dấu hiệu cảnh báo",
+      "image_keywords": "interrupting conversation, lack of active listening, rude communication"
+    },
+    {
+      "title": "Cảm giác như 'đập đầu vào tường'",
+      "script_sentence": "Hành vi này thể hiện thái độ \"Bạn sai, nên tôi không cần lắng nghe bạn\". Bạn tức giận và muốn giải thích lại nhiều lần, nhưng càng nói, bạn càng có cảm giác như đang \"đập đầu vào tường\".",
+      "overlay_text": "Càng giải thích, càng cảm thấy vô vọng",
+      "image_keywords": "frustrated communication, hitting a wall metaphor, ignored feelings"
+    },
+    {
+      "title": "Thao túng cảm xúc",
+      "script_sentence": "Người kia thậm chí có vẻ thỏa mãn khi bạn thất vọng. Cuối cùng, họ đảo ngược tình thế và buộc tội bạn là mất kiểm soát.",
+      "overlay_text": "Họ khiến bạn tức giận rồi buộc tội bạn là kẻ mất kiểm soát",
+      "image_keywords": "emotional manipulation, blame shifting, toxic person satisfaction"
+    },
+    {
+      "title": "Giao tiếp song song là gì?",
+      "script_sentence": "Giao tiếp song song. Một kiểu giao tiếp độc hại khác là khi người đó tránh né việc đào sâu cuộc trò chuyện và chỉ liên tục nhấn mạnh trải nghiệm cá nhân của họ.",
+      "overlay_text": "Giao tiếp song song: chỉ nói về bản thân, né tránh kết nối",
+      "image_keywords": "parallel communication, self-centered talking, avoid emotional depth"
+    },
+    {
+      "title": "Không thực sự kết nối",
+      "script_sentence": "Đây được gọi là hiện tượng \"giao tiếp song song\", khi hai người nói chuyện nhưng không thực sự kết nối.",
+      "overlay_text": "Nói chuyện nhưng không kết nối – đó là giao tiếp song song",
+      "image_keywords": "disconnected conversation, people talking past each other, lack of empathy"
+    },
+    {
+      "title": "Câu chuyện bị chiếm sóng",
+      "script_sentence": "Ví dụ bạn chia sẻ một câu chuyện cảm động về con gái mình. Thay vì lắng nghe hay đặt câu hỏi để hiểu thêm, người kia lập tức kể lại chuyện của con họ, như thể đang thi kể chuyện hơn là trò chuyện.",
+      "overlay_text": "Bạn chia sẻ, họ lập tức biến thành cuộc thi kể chuyện",
+      "image_keywords": "story hijacking, emotional sharing ignored, self-centered response"
+    },
+    {
+      "title": "Trả lời hời hợt",
+      "script_sentence": "Khi bạn cố gắng duy trì cuộc đối thoại bằng cách hỏi thêm, họ gạt đi bằng một câu nói chung chung như: \"Đó là chuyện nuôi con mà, ai cũng vậy thôi.\"",
+      "overlay_text": "Trả lời qua loa: 'Ai cũng vậy thôi mà'",
+      "image_keywords": "dismissive response, shallow conversation, emotional avoidance"
+    },
+    {
+      "title": "Cảm giác vô hình trong mối quan hệ",
+      "script_sentence": "Khi điều này lặp đi lặp lại, bạn nhận ra họ giữ cho cuộc trò chuyện ở mức hời hợt, không thực sự muốn hiểu thêm về bạn hoặc chia sẻ điều gì sâu sắc về bản thân. Đối với họ, nói chuyện ở bề mặt là vùng an toàn, nơi họ không cần đối mặt với cảm xúc hay sự tổn thương.",
+      "overlay_text": "Họ chỉ nói chuyện bề mặt để tránh cảm xúc và tổn thương",
+      "image_keywords": "emotional distance, surface level communication, relationship loneliness"
+    },
+    {
+      "title": "Cô đơn giữa cuộc trò chuyện",
+      "script_sentence": "Nếu thường xuyên ở trong những cuộc trò chuyện như vậy, bạn có thể cảm thấy hụt hẫng, cô đơn hoặc thậm chí vô hình trong chính mối quan hệ đó.",
+      "overlay_text": "Bạn thấy cô đơn dù vẫn đang trò chuyện",
+      "image_keywords": "loneliness in conversation, emotional isolation, feeling invisible"
+    },
+    {
+      "title": "Phản ứng phòng thủ kèm công kích",
+      "script_sentence": "Phản ứng phòng thủ bằng cách tấn công cá nhân. Một biểu hiện nghiêm trọng khác của giao tiếp độc hại là khi ai đó không thể chấp nhận quan điểm hoặc cảm xúc khác với họ và ngay lập tức phản ứng phòng thủ bằng cách tấn công vào tính cách của bạn.",
+      "overlay_text": "Thay vì tranh luận, họ công kích vào con người bạn",
+      "image_keywords": "defensive communication, personal attack, toxic argument"
+    },
+    {
+      "title": "Ví dụ: Tấn công khi bất đồng",
+      "script_sentence": "Ví dụ bạn chia sẻ với cha rằng đang có kế hoạch quay lại trường học để theo đuổi một hướng đi mới trong sự nghiệp. Thay vì tìm hiểu thêm hay thể hiện sự quan tâm, ông nổi giận và nói \"Tại sao con lại làm vậy!? Thật ích kỷ. Con có biết học phí trường đó đắt thế nào không? Bố không nuôi con để trở thành người như thế này\".",
+      "overlay_text": "Bạn muốn đổi hướng, họ mắng bạn là ích kỷ",
+      "image_keywords": "parent child conflict, toxic reaction, career decision argument"
+    },
+    {
+      "title": "Phủ nhận con người chỉ vì khác biệt",
+      "script_sentence": "Trong tình huống này, thay vì phản đối quan điểm một cách tôn trọng, người cha đã biến sự bất đồng thành cuộc tấn công cá nhân, khiến bạn cảm thấy xấu hổ và bị phán xét. Đây không còn là bất đồng ý kiến, mà là phủ nhận con người bạn chỉ vì bạn chọn khác họ.",
+      "overlay_text": "Không đồng tình thì tấn công cá nhân, phủ nhận con người bạn",
+      "image_keywords": "shaming response, disagreement turned attack, emotional invalidation"
+    },
+    {
+      "title": "Giao tiếp lành mạnh là thế nào?",
+      "script_sentence": "Một người giao tiếp lành mạnh có thể không đồng tình, nhưng vẫn thể hiện sự tôn trọng, ví dụ \"Bố bất ngờ với quyết định này, nhưng bố muốn nghe thêm. Con đã tính đến chuyện học phí và chăm sóc lũ trẻ chưa?\".",
+      "overlay_text": "Không đồng ý vẫn có thể lắng nghe và tôn trọng",
+      "image_keywords": "healthy communication, respectful disagreement, supportive parent"
+    }
+  ]
+}

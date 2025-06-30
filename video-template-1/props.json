@@ -1,52 +1,88 @@
 {
   "slides": [
     {
-      "text": "Dấu hiệu trẻ thông minh: Nhạy cảm|Nhạy cảm là một dấu hiệu!",
+      "text": "Ba dấu hiệu giao tiếp độc hại|3 dấu hiệu nhận biết bạn đang giao tiếp với người độc hại",
       "image": "/images/img1.jpg",
       "voice": "/voices/part1.mp3",
-      "duration": "5.33"
+      "duration": "23.74"
     },
     {
-      "text": "Mốc phát triển sớm hơn|Sớm bò, sớm nói, sớm đi!",
+      "text": "Thiếu sự lắng nghe tích cực|Nói chưa xong đã bị ngắt lời là dấu hiệu cảnh báo",
       "image": "/images/img2.jpg",
       "voice": "/voices/part2.mp3",
-      "duration": "5.95"
+      "duration": "10.9"
     },
     {
-      "text": "Trí nhớ đáng kinh ngạc|Nhớ số điện thoại, biển số xe?",
+      "text": "Cảm giác như 'đập đầu vào tường'|Càng giải thích, càng cảm thấy vô vọng",
       "image": "/images/img3.jpg",
       "voice": "/voices/part3.mp3",
-      "duration": "4.61"
+      "duration": "12.24"
     },
     {
-      "text": "Ngủ ít, năng lượng cao|Ít ngủ, nhiều năng lượng!",
+      "text": "Thao túng cảm xúc|Họ khiến bạn tức giận rồi buộc tội bạn là kẻ mất kiểm soát",
       "image": "/images/img4.jpg",
       "voice": "/voices/part4.mp3",
-      "duration": "5.38"
+      "duration": "8.16"
     },
     {
-      "text": "Luôn năng động, khám phá|Khám phá thế giới!",
+      "text": "Giao tiếp song song là gì?|Giao tiếp song song: chỉ nói về bản thân, né tránh kết nối",
       "image": "/images/img5.jpg",
       "voice": "/voices/part5.mp3",
-      "duration": "5.04"
+      "duration": "9.48"
     },
     {
-      "text": "Làm chủ trò chơi nhanh chóng|Sáng tạo trong trò chơi!",
+      "text": "Không thực sự kết nối|Nói chuyện nhưng không kết nối – đó là giao tiếp song song",
       "image": "/images/img6.jpg",
       "voice": "/voices/part6.mp3",
-      "duration": "4.7"
+      "duration": "5.88"
     },
     {
-      "text": "Khiếu hài hước bẩm sinh|Diễn viên hài nhí!",
+      "text": "Câu chuyện bị chiếm sóng|Bạn chia sẻ, họ lập tức biến thành cuộc thi kể chuyện",
       "image": "/images/img7.jpg",
       "voice": "/voices/part7.mp3",
-      "duration": "6.22"
+      "duration": "11.83"
     },
     {
-      "text": "Kích thích trí thông minh qua vui chơi|Vui chơi học tập!",
+      "text": "Trả lời hời hợt|Trả lời qua loa: 'Ai cũng vậy thôi mà'",
       "image": "/images/img8.jpg",
       "voice": "/voices/part8.mp3",
-      "duration": "5.33"
+      "duration": "8.83"
+    },
+    {
+      "text": "Cảm giác vô hình trong mối quan hệ|Họ chỉ nói chuyện bề mặt để tránh cảm xúc và tổn thương",
+      "image": "/images/img9.jpg",
+      "voice": "/voices/part9.mp3",
+      "duration": "15.82"
+    },
+    {
+      "text": "Cô đơn giữa cuộc trò chuyện|Bạn thấy cô đơn dù vẫn đang trò chuyện",
+      "image": "/images/img10.jpg",
+      "voice": "/voices/part10.mp3",
+      "duration": "7.94"
+    },
+    {
+      "text": "Phản ứng phòng thủ kèm công kích|Thay vì tranh luận, họ công kích vào con người bạn",
+      "image": "/images/img11.jpg",
+      "voice": "/voices/part11.mp3",
+      "duration": "12.86"
+    },
+    {
+      "text": "Ví dụ: Tấn công khi bất đồng|Bạn muốn đổi hướng, họ mắng bạn là ích kỷ",
+      "image": "/images/img12.jpg",
+      "voice": "/voices/part12.mp3",
+      "duration": "20.88"
+    },
+    {
+      "text": "Phủ nhận con người chỉ vì khác biệt|Không đồng tình thì tấn công cá nhân, phủ nhận con người bạn",
+      "image": "/images/img13.jpg",
+      "voice": "/voices/part13.mp3",
+      "duration": "14.98"
+    },
+    {
+      "text": "Giao tiếp lành mạnh là thế nào?|Không đồng ý vẫn có thể lắng nghe và tôn trọng",
+      "image": "/images/img14.jpg",
+      "voice": "/voices/part14.mp3",
+      "duration": "12.82"
     }
   ]
 }
